@@ -1,3 +1,2 @@
 python-3.7.10
 python-constraint
-python-streamlit
