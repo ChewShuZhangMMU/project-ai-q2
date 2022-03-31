@@ -1,3 +1,5 @@
-numpy==.1.16.4
-streamlit==0.52.1
-panas==0.25.1
+import streamlit as st
+import numpy as np
+import pandas as pd
+import constraint
+import math
