@@ -1,5 +1,3 @@
 numpy==.1.16.4
 streamlit==0.52.1
 panas==0.25.1
-import constraint
-import math
